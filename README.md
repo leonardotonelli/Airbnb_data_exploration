@@ -1,1 +1,2 @@
-# Airbnb_data_exploration
+# Airbnb data exploration
+Project for a statistics course, focusing on the statistical analysis of a large-scale Airbnb dataset comprising over 74,000 short-term rental listings. Our primary objective was to identify and assess the statistical correlations between the price variable and other pertinent factors. Leveraging Python libraries such as Pandas, Seaborn, Numpy, and Matplotlib, we conducted a comprehensive analysis, uncovering valuable insights and trends within the data. 
